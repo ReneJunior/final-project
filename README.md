@@ -1,3 +1,1 @@
 # Final Project
-
-## Files Structure

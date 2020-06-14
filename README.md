@@ -27,6 +27,6 @@ pip install notebook
 ```
 
 ## Data
-The data files are divided into three: system data, bar identification and time demand file. As the load flow problem will be solved, it will be necessary to first find the peak system power.
-![Newton Fast Decoupled Flowchart ](figures/Demand.png)
-![Newton Fast Decoupled Flowchart ](figures/Flowchart_FastDecopled.png)
+This second part is where the pre-processing of the initial data will be performed. The file "PC.txt" and "QC.txt" have the data of 14 expensive bars, found varying in time. Each measurement is equivalent to a reading taken every half hour, for 72 hours, totaling 144 data per bar. For the calculations, the absolute peak demand data will be used, so the code below accomplishes this, and writing this data in a new file called "Data_Node.txt".
+
+## Instructions for reproduction

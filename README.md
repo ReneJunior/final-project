@@ -13,4 +13,4 @@ The files are organized as follow:
 
 
 
-![Workflow Research](figures/Flowchart_FastDecopled.pdf)
+![Workflow Research](figures/Flowchart_FastDecopled.png)

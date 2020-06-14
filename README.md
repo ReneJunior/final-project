@@ -14,5 +14,9 @@ The files are organized as follow:
 3. Graphic library:[Matplotlib](https://matplotlib.org/)
 
 
+```
+pip install
+pip install
+```
 
 ![Newton Fast Decoupled Flowchart ](figures/Flowchart_FastDecopled.png)

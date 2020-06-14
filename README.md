@@ -19,5 +19,6 @@ pip install numpy
 pip install matplotlib
 ```
 ## Data
+The data files are divided into three: system data, bar identification and time demand file. As the load flow problem will be solved, it will be necessary to first find the peak system power.
 ![Newton Fast Decoupled Flowchart ](figures/Demand.png)
 ![Newton Fast Decoupled Flowchart ](figures/Flowchart_FastDecopled.png)

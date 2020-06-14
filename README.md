@@ -10,6 +10,7 @@ The files are organized as follow:
 ## Software and libraries used
 
 1. Programming Language: [Python 3.6](https://www.python.org/) 
+[Numpy](https://numpy.org/)
 
 
 

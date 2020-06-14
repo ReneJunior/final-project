@@ -1,4 +1,1 @@
-The initial version of the article is on the link below, it was made using GoogleColab. I changed the documentation program for Jupyter Notebook, due to difficulties in the other platform.
-
-
-https://colab.research.google.com/drive/1wPIykUu6MUhz7HeYoesajYlYKoeVE_S4?authuser=1#scrollTo=VTBiC0bB5tX7
+In this folder is found the article, reproducible article. The reproducible article was created using the document jupyter notebook, so it has the name "Reproduction_procedures.ipynb"

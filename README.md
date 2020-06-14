@@ -19,5 +19,5 @@ pip install numpy
 pip install matplotlib
 ```
 ## Data
-
+![Newton Fast Decoupled Flowchart ](figures/Demand.png)
 ![Newton Fast Decoupled Flowchart ](figures/Flowchart_FastDecopled.png)

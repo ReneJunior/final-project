@@ -7,10 +7,10 @@ The files are organized as follow:
 * /dev - Notes and codes used during this research
 * /figures - Figures used for the development of the work
 
-##Software and libraries used
+## Software and libraries used
 
-1. Programming Language: [Python 3.3](https://www.python.org/) 
+1. Programming Language: [Python 3.6](https://www.python.org/) 
 
 
 
-![Workflow Research](figures/Flowchart_FastDecopled.png)
+![Newton Fast Decoupled Flowchart ](figures/Flowchart_FastDecopled.png)

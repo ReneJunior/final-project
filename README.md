@@ -10,7 +10,7 @@ The files are organized as follow:
 ## Software and libraries used
 Before attempting to reproduce the work, note the specifications used:
 
-* Programming Language: [Python 3.6](https://www.python.org/) 
+* Programming Language: [Python 3.6.5](https://www.python.org/downloads/release/python-365/) 
 * Mathematical library: [Numpy](https://numpy.org/)
 * Graphic library: [Matplotlib](https://matplotlib.org/)
 * Documentation: [Jupyter Notebook](https://jupyter.org/)

@@ -9,10 +9,10 @@ The files are organized as follow:
 
 ## Software and libraries used
 Before attempting to reproduce the work, note how specifications used:
-1. Programming Language: [Python 3.6](https://www.python.org/) 
-2. Mathematical library:[Numpy](https://numpy.org/)
-3. Graphic library:[Matplotlib](https://matplotlib.org/)
-4. Documentation:[Jupyter Notebook](https://jupyter.org/)
+* Programming Language: [Python 3.6](https://www.python.org/) 
+* Mathematical library:[Numpy](https://numpy.org/)
+* Graphic library:[Matplotlib](https://matplotlib.org/)
+* Documentation:[Jupyter Notebook](https://jupyter.org/)
 
 ### Installation instructions
 The installation of the Python version is easily found on the website mentioned. In the case of libraries, you must use the terminal and the commands below for installation:

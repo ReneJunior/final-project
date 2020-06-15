@@ -30,7 +30,9 @@ pip install notebook
 This second part is where the pre-processing of the initial data will be performed. The file "PC.txt" and "QC.txt" have the data of 14 expensive bars, found varying in time. Each measurement is equivalent to a reading taken every half hour, for 72 hours, totaling 144 data per bar. For the calculations, the absolute peak demand data will be used, so the code below accomplishes this, and writing this data in a new file called "Data_Node.txt".
 
 ## Instructions for reproduction
-explicar como clonar o github
-explicar como abrir oj upyter e navegar ate a pasta onde esta o clone do github
-explicar como rodar o artigo 
-
+As previously mentioned, the paper reproductive is located in the "deliver" folder. To run the experiment, follow the steps:
+1. Have correctly performed all the installations previously requested.
+2. Clone this repository to your desktop.
+3. Enter the deliver folder and locate the preprocessing file called "Reproduction_procedures.ipynb".
+4. After performing pre-processing, locate the file "Paper_executavel.ipyn".
+5. Run all the codes inside, in order, and find the descriptor results in the article.

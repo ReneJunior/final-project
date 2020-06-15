@@ -34,9 +34,9 @@ The data comes in an analysis carried out between half-hour intervals, repeating
 As previously mentioned, the paper reproductive is located in the "deliver" folder. To run the experiment, follow the steps:
 1. Have correctly performed all the installations previously requested.
 2. Clone this repository to your desktop.
-3. Boot the jupyter notebook from the terminal;
-4. Deliver folder and locate the preprocessing file called "Reproduction_procedures.ipynb".
-5. After performing pre-processing, locate the file "Paper_executavel.ipyn".
+3. Boot the Jupyter Notebook from the terminal.
+4. Navigate to the deliver folder and locate the preprocessing file called "Reproduction_procedures.ipynb", and run it.
+5. After performing pre-processing, locate the file "Paper_code.ipynb".
 6. Run all the codes inside, in order, and find the descriptor results in the article.
 
 Ps: The commands for the identification of the database, was made based on the use of cloning and following the instructions previously mentioned.

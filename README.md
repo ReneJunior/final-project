@@ -39,4 +39,4 @@ As previously mentioned, the paper reproductive is located in the "deliver" fold
 5. After performing pre-processing, locate the file "Paper_code.ipynb".
 6. Run all the codes inside, in order, and find the descriptor results in the article.
 
-Ps: The commands for the identification of the database, was made based on the use of cloning and following the instructions previously mentioned.
+Ps: To best performance, clone the entire repository and follow the instructions previously mentioned.

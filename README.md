@@ -36,4 +36,5 @@ As previously mentioned, the paper reproductive is located in the "deliver" fold
 3. Enter the deliver folder and locate the preprocessing file called "Reproduction_procedures.ipynb".
 4. After performing pre-processing, locate the file "Paper_executavel.ipyn".
 5. Run all the codes inside, in order, and find the descriptor results in the article.
+
 Ps: The commands for the identification of the database, was made based on the use of cloning and following the instructions previously mentioned.

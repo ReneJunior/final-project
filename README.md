@@ -27,7 +27,7 @@ pip install notebook
 ```
 
 ## Data
-This second part is where the pre-processing of the initial data will be performed. The file "PC.txt" and "QC.txt" have the data of 14 expensive bars, found varying in time. Each measurement is equivalent to a reading taken every half hour, for 72 hours, totaling 144 data per bar. For the calculations, the absolute peak demand data will be used, so the code below accomplishes this, and writing this data in a new file called "Data_Node.txt".
+The data comes in an analysis carried out between half-hour intervals, repeating this process for three days (72 hours). As we will calculate the load flow for the transmission system, it will be necessary to perform a processing, for the collection of the peak, for each of the bars.
 
 ## Instructions for reproduction
 As previously mentioned, the paper reproductive is located in the "deliver" folder. To run the experiment, follow the steps:

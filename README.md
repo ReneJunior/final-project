@@ -6,6 +6,8 @@ The files are organized as follow:
 * /deliver - The executable paper and experiment's codes;
 * /dev - Notes and codes used during this research;
 * /figures - Figures used for the development of the work.
+## Workflow
+
 
 ## Software and libraries used
 Before attempting to reproduce the work, note the specifications used:

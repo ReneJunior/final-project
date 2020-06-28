@@ -9,6 +9,15 @@ The files are organized as follow:
 ## Workflow
 <img src="https://github.com/ReneJunior/final-project/blob/master/figures/WorkFlow.svg" width="250">
 
+### Software and libraries used
+Before attempting to reproduce the work, note the specifications used:
+
+* Programming Language: [Python 3.6.5](https://www.python.org/downloads/release/python-365/) 
+* Mathematical library: [Numpy](https://numpy.org/)
+* Graphic library: [Matplotlib](https://matplotlib.org/)
+* Documentation: [Jupyter Notebook](https://jupyter.org/)
+* Distribution: [Oracle VM VirtualBox](https://www.virtualbox.org/)
+
 ## Distribution
 This work has two ways to be reproduced, the first using a virtual machine and the second is by manually installing the programs and selecting the programs to be executed.
 
@@ -20,14 +29,6 @@ For this format, it is necessary to have installed the program [Oracle VM Virtua
 
 For manual installation of tools and libraries, follow the instructions below.
 
-#### Software and libraries used
-Before attempting to reproduce the work, note the specifications used:
-
-* Programming Language: [Python 3.6.5](https://www.python.org/downloads/release/python-365/) 
-* Mathematical library: [Numpy](https://numpy.org/)
-* Graphic library: [Matplotlib](https://matplotlib.org/)
-* Documentation: [Jupyter Notebook](https://jupyter.org/)
-* Distribution: [Oracle VM VirtualBox](https://www.virtualbox.org/)
 #### Installation instructions 
 The installation of the Python version is easily found on the website mentioned, but I was careful to select the option of "path" at the time of installation. If you have chosen to reproduce the work "manually", you must first check if your "pip install" is up to date, with the command
 ```

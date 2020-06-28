@@ -9,7 +9,7 @@ The files are organized as follow:
 ## Workflow
 <img src="https://github.com/ReneJunior/final-project/blob/master/figures/WorkFlow.svg" width="250">
 
-### Software and libraries used
+## Software and libraries used
 Before attempting to reproduce the work, note the specifications used:
 
 * Programming Language: [Python 3.6.5](https://www.python.org/downloads/release/python-365/) 

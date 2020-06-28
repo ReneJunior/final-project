@@ -12,9 +12,12 @@ The files are organized as follow:
 ## Distribution
 This work has two ways to be reproduced, the first using a virtual machine and the second is by manually installing the programs and selecting the programs to be executed.
 
-### virtual machine
+### Virtual Machine
 
-### manually installing
+
+### Manually Installing
+
+For manual installation of libraries, follow the instructions below
 
 #### Software and libraries used
 Before attempting to reproduce the work, note the specifications used:

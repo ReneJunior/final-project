@@ -17,7 +17,7 @@ This work has two ways to be reproduced, the first using a virtual machine and t
 
 ### Manually Installing
 
-For manual installation of libraries, follow the instructions below
+For manual installation of tools and libraries, follow the instructions below.
 
 #### Software and libraries used
 Before attempting to reproduce the work, note the specifications used:

@@ -27,7 +27,7 @@ Before attempting to reproduce the work, note the specifications used:
 * Mathematical library: [Numpy](https://numpy.org/)
 * Graphic library: [Matplotlib](https://matplotlib.org/)
 * Documentation: [Jupyter Notebook](https://jupyter.org/)
-
+* Distribution: [Oracle VM VirtualBox](https://www.virtualbox.org/)
 #### Installation instructions 
 The installation of the Python version is easily found on the website mentioned, but I was careful to select the option of "path" at the time of installation. If you have chosen to reproduce the work "manually", you must first check if your "pip install" is up to date, with the command
 ```

@@ -17,8 +17,12 @@ Before attempting to reproduce the work, note the specifications used:
 * Graphic library: [Matplotlib](https://matplotlib.org/)
 * Documentation: [Jupyter Notebook](https://jupyter.org/)
 
-### Installation instructions
-The installation of the Python version is easily found on the website mentioned. In the case of libraries, you must use the terminal and the commands below for installation:
+### Installation instructions 
+The installation of the Python version is easily found on the website mentioned. If you have chosen to reproduce the work "manually", you must first check if your "pip install" is up to date, with the command
+```
+python -m pip install --upgrade pip
+```
+After updating the "pip install", you must restart the terminal, closing and opening it again. To start installing the libraries, go to the terminal and use the installation commands below:
 ```
 pip install numpy
 pip install matplotlib

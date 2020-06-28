@@ -11,7 +11,12 @@ The files are organized as follow:
 
 ## Distribution
 This work has two ways to be reproduced, the first using a virtual machine and the second is by manually installing the programs and selecting the programs to be executed.
-## Software and libraries used
+
+### virtual machine
+
+### manually installing
+
+#### Software and libraries used
 Before attempting to reproduce the work, note the specifications used:
 
 * Programming Language: [Python 3.6.5](https://www.python.org/downloads/release/python-365/) 
@@ -19,7 +24,7 @@ Before attempting to reproduce the work, note the specifications used:
 * Graphic library: [Matplotlib](https://matplotlib.org/)
 * Documentation: [Jupyter Notebook](https://jupyter.org/)
 
-### Installation instructions 
+#### Installation instructions 
 The installation of the Python version is easily found on the website mentioned. If you have chosen to reproduce the work "manually", you must first check if your "pip install" is up to date, with the command
 ```
 python -m pip install --upgrade pip

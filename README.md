@@ -9,6 +9,8 @@ The files are organized as follow:
 ## Workflow
 <img src="https://github.com/ReneJunior/final-project/blob/master/figures/WorkFlow.svg" width="250">
 
+## Distribution
+This work has two ways to be reproduced, the first using a virtual machine and the second is by manually installing the programs and selecting the programs to be executed.
 ## Software and libraries used
 Before attempting to reproduce the work, note the specifications used:
 

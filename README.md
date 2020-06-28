@@ -7,7 +7,7 @@ The files are organized as follow:
 * /dev - Notes and codes used during this research;
 * /figures - Figures used for the development of the work.
 ## Workflow
-<img src="https://github.com/ReneJunior/final-project/blob/master/figures/WorkFlow.svg" width="100">
+<img src="https://github.com/ReneJunior/final-project/blob/master/figures/WorkFlow.svg" width="500">
 
 ## Software and libraries used
 Before attempting to reproduce the work, note the specifications used:

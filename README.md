@@ -50,11 +50,15 @@ For the installation of the jupyter notebook it is possible to find the instruct
 pip install jupyterlab
 pip install notebook
 ```
+Also install Git, to be able to clone this repository.
 
 ## Instructions for reproduction
 As previously mentioned, the paper reproductive is located in the "deliver" folder. To run the experiment, follow the steps:
-1. Have correctly performed all the installations previously requested.
-2. Clone this repository to your desktop.
+1. At the beginning of this repository, there is a green button described in the download. Click on it and copy the generated link.
+2. Open the terminal and type the combination below, replacing `***` with the copied link.
+```
+git clone ***
+```
 3. Boot the Jupyter Notebook from the terminal, with the command.
 ```
 jupyter notebook

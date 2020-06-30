@@ -64,7 +64,7 @@ git clone ***
 ```
 jupyter notebook
 ```
-4. Navigate to the delivery folder called `final-project`, enter the folder, locate the pre-processing file called` / deliver` and look for the file `Reproduction_procedures.ipynb`, and run all the codes. In each code block, the text description of what is being done.
+4. Navigate to the delivery folder called `final-project`, enter the folder, locate the pre-processing file called `/deliver` and look for the file `Reproduction_procedures.ipynb`, and run all the codes. In each code block, the text description of what is being done.
 5. After performing pre-processing, locate the file `Paper_code.ipynb`, and do the same process for preprocessing. This file also describes what the code is doing
 6. Run all the codes inside, in order, and find the descriptor results in the article.
 

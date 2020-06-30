@@ -85,10 +85,6 @@ max_QC_12=  0
 max_QC_13=  0
 max_QC_14=  0
 
-
-
-file = open('Data_Node.txt','w+') 
-
 for i in range(ND):          
         
     if abs(PC_1[i]) > abs(max_PC_1):
@@ -185,26 +181,6 @@ x= range(ND)
 y1 = Y1
 y2 = Y2
 
-#plt.ylabel('Magnitude of Active Power')
-#plt.xlabel('Demand level')
-#
-#plt.ylim(ymax = 1.1, ymin = 0)
-#plt.xlim(xmax = 144, xmin = 1)
-#plt.plot(x, y1)
-#plt.savefig('nivel_demand_P.eps')        
-#plt.show()        
-#
-#
-#plt.ylabel('Magnitude of Reactive Power')
-#plt.xlabel('Demand level')
-#
-#plt.ylim(ymax = 1.1, ymin = 0)
-#plt.xlim(xmax = 144, xmin = 1)
-#plt.plot(x, y2)
-#plt.savefig('nivel_demand_Q.eps')        
-#plt.show()      
-
-
 plt.subplot(2, 1, 1)
 plt.plot(x, y1, 'tab:blue', 'o-')
 plt.title('Magnitude of Powers')
@@ -221,22 +197,21 @@ plt.xlim(xmax = 144, xmin = 1)
 plt.savefig('nivel_demand.eps')    
 plt.show()    
 
-#file.write('Node \t PC \t QC\n')
-#file.write(f'{1}\t {max_PC_1} \t {max_QC_1}\n')      
-#file.write(f'{2}\t {max_PC_2} \t {max_QC_2}\n')      
-#file.write(f'{3}\t {max_PC_3} \t {max_QC_3}\n')      
-#file.write(f'{4}\t {max_PC_4} \t {max_QC_4}\n')      
-#file.write(f'{5}\t {max_PC_5} \t {max_QC_5}\n')      
-#file.write(f'{6}\t {max_PC_6} \t {max_QC_6}\n')      
-#file.write(f'{7}\t {max_PC_7} \t {max_QC_7}\n')      
-#file.write(f'{8}\t {max_PC_8} \t {max_QC_8}\n')      
-#file.write(f'{9}\t {max_PC_9} \t {max_QC_9}\n')      
-#file.write(f'{10}\t {max_PC_10} \t {max_QC_10}\n')      
-#file.write(f'{11}\t {max_PC_11} \t {max_QC_11}\n')      
-#file.write(f'{12}\t {max_PC_12} \t {max_QC_12}\n')      
-#file.write(f'{13}\t {max_PC_13} \t {max_QC_13}\n')      
-#file.write(f'{14}\t {max_PC_14} \t {max_QC_14}\n')      
-#        
-#        
-#        
-#file.close()
+file = open('Data_Node.txt','w+') 
+file.write('Node \t PC \t QC\n')
+file.write(f'{1}\t {max_PC_1} \t {max_QC_1}\n')      
+file.write(f'{2}\t {max_PC_2} \t {max_QC_2}\n')      
+file.write(f'{3}\t {max_PC_3} \t {max_QC_3}\n')      
+file.write(f'{4}\t {max_PC_4} \t {max_QC_4}\n')      
+file.write(f'{5}\t {max_PC_5} \t {max_QC_5}\n')      
+file.write(f'{6}\t {max_PC_6} \t {max_QC_6}\n')      
+file.write(f'{7}\t {max_PC_7} \t {max_QC_7}\n')      
+file.write(f'{8}\t {max_PC_8} \t {max_QC_8}\n')      
+file.write(f'{9}\t {max_PC_9} \t {max_QC_9}\n')      
+file.write(f'{10}\t {max_PC_10} \t {max_QC_10}\n')      
+file.write(f'{11}\t {max_PC_11} \t {max_QC_11}\n')      
+file.write(f'{12}\t {max_PC_12} \t {max_QC_12}\n')      
+file.write(f'{13}\t {max_PC_13} \t {max_QC_13}\n')      
+file.write(f'{14}\t {max_PC_14} \t {max_QC_14}\n')      
+
+file.close()

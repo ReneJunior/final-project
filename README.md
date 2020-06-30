@@ -15,8 +15,8 @@ Before attempting to reproduce the work, note the specifications used:
 
 * Programming Language: [Python 3.6.5](https://www.python.org/downloads/release/python-365/) 
 * Library
-** Mathematical library: [Numpy](https://numpy.org/)
-** Graphic library: [Matplotlib](https://matplotlib.org/)
+  - Mathematical: [Numpy](https://numpy.org/)
+  - Graphic: [Matplotlib](https://matplotlib.org/)
 * Documentation: [Jupyter Notebook](https://jupyter.org/)
 * Distribution: [Oracle VM VirtualBox](https://www.virtualbox.org/)
 * Code: [Git](https://git-scm.com/downloads)

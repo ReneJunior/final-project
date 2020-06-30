@@ -6,8 +6,6 @@ The files are organized as follow:
 * /deliver - The executable paper and experiment's codes;
 * /dev - Notes and codes used during this research;
 * /figures - Figures used for the development of the work.
-## Workflow
-<img src="https://github.com/ReneJunior/final-project/blob/master/figures/WorkFlow.svg" width="250">
 
 ## Software and libraries used
 Before attempting to reproduce the work, note the specifications used:
@@ -18,12 +16,16 @@ Before attempting to reproduce the work, note the specifications used:
 * Documentation: [Jupyter Notebook](https://jupyter.org/)
 * Distribution: [Oracle VM VirtualBox](https://www.virtualbox.org/)
 * Documentation: [Git](https://git-scm.com/downloads)
+
+## Data
+The data comes in an analysis carried out between half-hour intervals, repeating this process for three days (72 hours). As we will calculate the load flow for the transmission system, it will be necessary to perform a processing, for the collection of the peak, for each of the bars.
+
 ## Distribution
 This work has two ways to be reproduced, the first using a virtual machine and the second is by manually installing the programs and selecting the programs to be executed.
 
 ### Virtual Machine
 
-For this format, it is necessary to have installed the program [Oracle VM VirtualBox](https://www.virtualbox.org/). With the software installed, [download](https://drive.google.com/file/d/13OT-HSYDu1Z0tJ6tnEO1_fHR-GQa4rGO/view?usp=sharing) the virtual machine created for the reproduction of this work and skip to the instruction *Data*.
+For this format, it is necessary to have installed the program [Oracle VM VirtualBox](https://www.virtualbox.org/). With the software installed, [download](https://drive.google.com/file/d/13OT-HSYDu1Z0tJ6tnEO1_fHR-GQa4rGO/view?usp=sharing) the virtual machine created for the reproduction of this work and skip to the instruction *Instructions for reproduction*.
 
 Passworkd = 1234
 
@@ -46,9 +48,6 @@ For the installation of the jupyter notebook it is possible to find the instruct
 pip install jupyterlab
 pip install notebook
 ```
-
-## Data
-The data comes in an analysis carried out between half-hour intervals, repeating this process for three days (72 hours). As we will calculate the load flow for the transmission system, it will be necessary to perform a processing, for the collection of the peak, for each of the bars.
 
 ## Instructions for reproduction
 As previously mentioned, the paper reproductive is located in the "deliver" folder. To run the experiment, follow the steps:

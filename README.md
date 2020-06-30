@@ -14,11 +14,12 @@ The data comes in an analysis carried out between half-hour intervals, repeating
 Before attempting to reproduce the work, note the specifications used:
 
 * Programming Language: [Python 3.6.5](https://www.python.org/downloads/release/python-365/) 
-* Mathematical library: [Numpy](https://numpy.org/)
-* Graphic library: [Matplotlib](https://matplotlib.org/)
+* Library
+** Mathematical library: [Numpy](https://numpy.org/)
+** Graphic library: [Matplotlib](https://matplotlib.org/)
 * Documentation: [Jupyter Notebook](https://jupyter.org/)
 * Distribution: [Oracle VM VirtualBox](https://www.virtualbox.org/)
-* Documentation: [Git](https://git-scm.com/downloads)
+* Code: [Git](https://git-scm.com/downloads)
 
 ## Distribution
 This work has two ways to be reproduced, the first using a virtual machine and the second is by manually installing the programs and selecting the programs to be executed.

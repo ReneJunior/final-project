@@ -22,7 +22,7 @@ Before attempting to reproduce the work, note the specifications used:
 * Code: [Git](https://git-scm.com/downloads)
 
 ## Distribution
-This work has two ways to be reproduced, the first using a virtual machine and the second is by manually installing the programs and selecting the programs to be executed.
+This work has two ways to be reproduced, the first using a virtual machine and the second is by manually installing the programs.
 
 ### Virtual Machine
 

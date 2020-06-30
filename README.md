@@ -67,4 +67,4 @@ jupyter notebook
 5. After performing pre-processing, locate the file `Paper_code.ipynb`, and do the same process for preprocessing. This file also describes what the code is doing
 6. Run all the codes inside, in order, and find the descriptor results in the article.
 
-Ps: To best performance, clone the entire repository and follow the instructions previously mentioned.
+Ps: In the course of this work, some tests were performed using a machine with a Linux operating system. The reproduction process on this machine could not be completed, generating an error in the syntax code. If this occurs, try to use a virtual machine.

@@ -11,7 +11,7 @@ The files are organized as follow:
 The data comes in an analysis carried out between half-hour intervals, repeating this process for three days (72 hours). As we will calculate the load flow for the transmission system, it will be necessary to perform a processing, for the collection of the peak, for each of the bars. The original versions of this work can be found at [IEEE14](https://labs.ece.uw.edu/pstca/pf14/pg_tca14bus.htm) and [Macedo](https://ieeexplore.ieee.org/document/7095593?denied=).
 
 ## Software and libraries used
-Before attempting to reproduce the work, note the specifications used:
+Before you reproduce the work, note the specifications used:
 
 * Programming Language: [Python 3.6.5](https://www.python.org/downloads/release/python-365/) 
 * Library

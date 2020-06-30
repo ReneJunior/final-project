@@ -27,7 +27,7 @@ This work has two ways to be reproduced, the first using a virtual machine and t
 
 For this format, it is necessary to have installed the program [Oracle VM VirtualBox](https://www.virtualbox.org/). With the software installed, [download](https://drive.google.com/file/d/13OT-HSYDu1Z0tJ6tnEO1_fHR-GQa4rGO/view?usp=sharing) the virtual machine created to reproduce this work. The password required to access it is below.
 
-Passworkd = 1234
+Passworkd = `1234`
 
 With the virtual machine open and logged in, skip to step to the instruction *Instructions for reproduction*.
 

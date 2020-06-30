@@ -30,7 +30,7 @@ For this format, it is necessary to have installed the program [Oracle VM Virtua
 
 Password = `1234`
 
-With the virtual machine open and logged in, skip to step to the instruction *Instructions for reproduction*.
+With the virtual machine open and logged in, skip to step to the instruction *Instructions for reproduction* and follow the steps using the virtual machine.
 
 ### Manually Installing
 

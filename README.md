@@ -7,7 +7,7 @@ The files are organized as follow:
 * `/dev` - Notes and codes used during this research;
 * `/figures` - Figures used for the development of the work.
 ## Workflow
-<img src="https://github.com/ReneJunior/final-project/blob/master/figures/WorkFlow.svg" width="500" height="450" />
+<img src="https://github.com/ReneJunior/final-project/blob/master/figures/WorkFlow.svg" width="276" height="450" />
 ## Data
 The data comes in an analysis carried out between half-hour intervals, repeating this process for three days (72 hours). As we will calculate the load flow for the transmission system, it will be necessary to perform a processing, for the collection of the peak, for each of the bars. The original versions of this work can be found at [IEEE14](https://labs.ece.uw.edu/pstca/pf14/pg_tca14bus.htm) and [Macedo](https://ieeexplore.ieee.org/document/7095593?denied=).
 
